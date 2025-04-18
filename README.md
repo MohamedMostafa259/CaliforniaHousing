@@ -34,8 +34,11 @@ The dataset is programmatically downloaded from [this source](https://github.com
 
   ![Geographical Distribution of Housing Prices in California](https://github.com/MohamedMostafa259/CaliforniaHousing/blob/main/visualizations/Geographical%20Distribution%20of%20Housing%20Prices%20in%20California.png)
 
+    **Insights**:
     - Housing prices are significantly higher near the coast, especially in the Bay Area (San Francisco) and around Los Angeles.
     - Larger populations are clustered around the coastal regions, indicating urban centers.
+
+<br>
 
 - Used heatmaps and bar charts to explore relationships among features.
 
